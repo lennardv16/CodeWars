@@ -10,3 +10,5 @@ function getCount(str) {
   }
   return count;
 }
+
+console.log(getCount('abracadabra'));
